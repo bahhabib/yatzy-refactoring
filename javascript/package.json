@@ -6,7 +6,7 @@
     "assert": "^2.0.0"
   },
   "devDependencies": {
-    "mocha": "~1.17"
+    "mocha": "~10.1"
   },
   "scripts": {
     "test": "mocha"
